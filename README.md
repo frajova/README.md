@@ -25,9 +25,10 @@ excellent organizational skills.</p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frajova&layout=compact&hide=html" alt="frajova" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frajova&show_icons=true" alt="frajova" />
+### Status
+<div align="left">
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frajova&layout=compact&hide=html" alt="frajova" /> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=frajova&show_icons=true" alt="frajova" />
 </div>
 
 ## Connect with me  

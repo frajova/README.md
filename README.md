@@ -15,7 +15,6 @@ excellent organizational skills.</p>
 - ⚡ Fun fact **Coffee over anything!!**
 
 ### Tech Stack
-
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -25,16 +24,10 @@ excellent organizational skills.</p>
 </p>
 
 ### Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frajova&layout=compact&hide=html" alt="frajova" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=frajova&show_icons=true" alt="frajova" /></p>
 
-<p align="left">&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=frajova&show_icons=true" alt="frajova" />
-</p>
-
-## Connect with me
-<div align="center">
+### Connect with me
+<div align="left">
   <a href="https://github.com/frajova" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>

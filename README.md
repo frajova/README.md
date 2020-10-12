@@ -1,4 +1,3 @@
-<!-- <h1 align="center">Hi 👋, I'm Pragati Verma</h1> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
@@ -25,14 +24,14 @@ excellent organizational skills.</p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
-### Status
-<div align="left">
+### Stats
+<p align="left">
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frajova&layout=compact&hide=html" alt="frajova" /> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=frajova&show_icons=true" alt="frajova" />
-</div>
+</p>
 
 ## Connect with me  
-<div align="center">
+<p align="center">
   <a href="https://github.com/frajova" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
@@ -42,4 +41,4 @@ excellent organizational skills.</p>
   <a href="https://linkedin.com/in/frajova" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-</div>
+</p>

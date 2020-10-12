@@ -29,6 +29,7 @@ excellent organizational skills.</p>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frajova&layout=compact&hide=html" alt="frajova" /> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=frajova&show_icons=true" alt="frajova" />
 </p>
+
 &nbsp;
 ## Connect with me
 <div align="center">

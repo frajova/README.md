@@ -20,16 +20,13 @@ excellent organizational skills.</p>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p>
-
-<p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frajova&layout=compact&hide=html" alt="frajova" />
 </p>
 
-<div align="center" margin-top="20px">
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frajova&layout=compact&hide=html" alt="frajova" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=frajova&show_icons=true" alt="frajova" />
 </div>
 

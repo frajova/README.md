@@ -1,5 +1,5 @@
 <h1>I'm Francisco 👋🏼 </h1>
-<p>Enthusiastic and frontend web developer 👨‍💻, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills.</p>
+<p>Enthusiastic and frontend developer 👨‍💻, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills.</p>
 
 ### 👨‍💻 About me
 - 🌱 I’m currently working with **React**
